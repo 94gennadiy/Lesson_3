@@ -1,0 +1,40 @@
+header {
+    color: darkkhaki;
+}
+
+.text1 {
+    color: green;
+}
+
+#lired {
+    color: red;
+}
+
+.textimg,
+.text4 {
+    color: red;
+}
+
+.text3 li {
+    color: blue;
+}
+
+.text3 h2 {
+    color: blueviolet;
+}
+
+.text6 p {
+    color: darkkhaki;
+}
+
+.text5 * {
+    color: dodgerblue;
+}
+
+.text2 span {
+    color: red;
+}
+
+.text3>p {
+    color: lightgreen;
+}
